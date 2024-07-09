@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://yonry.dev/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Yonry Zhu'
 theme = 'ananke'
+enableRobotsTXT = true
