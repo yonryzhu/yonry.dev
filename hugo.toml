@@ -1,5 +1,0 @@
-baseURL = 'https://yonry.dev/'
-languageCode = 'en-us'
-title = 'Yonry Zhu'
-theme = 'ananke'
-enableRobotsTXT = true
